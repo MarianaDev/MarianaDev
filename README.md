@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarianaDev"></a> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaDev&show_icons=true&icon_color=6d4ee9&title_color=6d4ee9&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDev&layout=compact&langs_count=7&title_color=6d4ee9&locale=pt-br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDev&layout=compact&langs_count=7&title_color=6d4ee9&locale=pt-br"/>
 </div>
   
 <div style="display: inline_block">
